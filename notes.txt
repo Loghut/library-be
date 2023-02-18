@@ -1,0 +1,1 @@
+priklad prazdneho Maven projektu
