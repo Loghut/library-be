@@ -1,3 +1,4 @@
+import org.springframework.stereotype.Controller;
 
 /**
  * Ukazka triedy v maven projekte.
@@ -10,6 +11,7 @@ public class Hlavna {
 	public static void main(String[] args) {
 		System.out.println("hello world..");
 	}
+
 
 }
 
