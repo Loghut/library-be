@@ -5,206 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13648efd-455f-4a8a-8c33-a355cbdd7ad9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/extract-zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/extract-zip.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/extract-zip.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvn.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvn.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnDebug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnDebug.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnDebug.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnyjp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnyjp.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.bin/mvnyjp.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-crc32/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-from/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-from/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-from/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/buffer-from/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/concat-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/concat-stream/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/concat-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/concat-stream/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/core-util-is/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/core-util-is/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/core-util-is/lib/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/core-util-is/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/debug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/inspector-log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/cli.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/extract-zip/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/fd-slicer/test/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inherits/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/component.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/isarray/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/.nycrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/all_bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/kv_short.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/long.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/num.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/proto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/short.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/stop_early.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/unknown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/usage.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mkdirp/readme.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/bin/mvn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/bin/mvnDebug.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/bin/mvnyjp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/src/apache-maven-3.5.0-bin.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/mvn/target.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/pend/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/pend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/pend/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/pend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/pend/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/GOVERNANCE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/duplex-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/passthrough.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/transform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/writable-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/readable-stream/writable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/safe-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/safe-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/safe-buffer/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/string_decoder/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/string_decoder/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/string_decoder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/string_decoder/lib/string_decoder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/string_decoder/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/example/tarray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/readme.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/test/server/undef_globals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/typedarray/test/tarray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/util-deprecate/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yauzl/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yauzl/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yauzl/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/yauzl/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/umb/demo/MavenApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/umb/demo/MavenApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/umb/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/umb/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,16 +62,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/ALL/Škola/2.Rocnik/LS/Programovanie 3/Git/library-be&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/ALL/Škola/2.Rocnik/LS/Programovanie 3/Git/library-be"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.MavenApplication">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.umb.demo.DemoApplication" />
+      <module name="demo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.umb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MavenApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.umb.demo.MavenApplication" />
       <module name="demo.main" />
       <extension name="coverage">
         <pattern>
@@ -288,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MavenApplication" />
         <item itemvalue="Application.DemoApplication" />
       </list>
     </recent_temporary>
@@ -302,5 +127,16 @@
       <updated>1676900219869</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
