@@ -1,0 +1,5 @@
+touch .
+git add .
+touch .
+echo $1 "dojde to sem"
+git commit -m $0
