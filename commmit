@@ -1,0 +1,4 @@
+touch.
+git add .
+touch .
+git commit -m $1
