@@ -3,6 +3,7 @@ package sk.umb.example.library.customer.service;
 public class CustomerRequestDTO {
     private String firstName;
     private String lastName;
+
     private String emailContact;
 
     public String getFirstName() {
